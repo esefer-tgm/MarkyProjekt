@@ -1,16 +1,16 @@
-# MarkusFrankensteinProjekt
+# Marky - Frankenstein
 
 
 ##Projektteam:
             * CEYLAN Muhammed (Projektleiter)
             * MASRIE Oliver
-            * ÖZSOY Ahmet
+            * Ã–ZSOY Ahmet
             * SEFER Eren
             
 ##Hardware:
             * Rasberry PI
             * WLAN - Stick
-            * Knopf (für funktionalität)
+            * Knopf (fÃ¼r funktionalitÃ¤t)
             * Temparatursensor
             * Lichtsensor
            
