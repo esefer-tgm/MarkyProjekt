@@ -1,4 +1,4 @@
-# Marky - Frankenstein
+# Marky Projekt
 
 
 ##Projektteam:
@@ -10,7 +10,7 @@
 ##Hardware:
             * Rasberry PI
             * WLAN - Stick
-            * Knopf (für funktionalität)
+            * Knopf (fuer Funktionalitaet)
             * Temparatursensor
             * Lichtsensor
            
